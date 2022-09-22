@@ -9,7 +9,7 @@
 
 // EX 1:
 function nameQuestion() {
-  console.log("Hello, what is your name?")
+  console.log("Hello, what is your name?");
 }
 
 nameQuestion()
